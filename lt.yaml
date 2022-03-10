@@ -1,0 +1,9 @@
+general:
+    Yes: "Taip"
+    No: "Ne"
+    Hello: "Labas"
+    Feelings: "Kaip tu jautiesi?"
+    en: "Angliškai"
+    de: "Vokiškai"
+    currentLanguageTitle: ":speaking_head: Dabartinė kalba"
+    currentLanguage: "Nustatyta kalba yra: {language}. Nesijaudink! galėsi ja betkada pakeisti "
